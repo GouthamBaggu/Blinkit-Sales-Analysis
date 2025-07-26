@@ -24,7 +24,7 @@ Blinkit-Sales-Analysis/
 ## 🖼️ Dashboard Preview
 Include screenshots of the Power BI dashboard in the `images/` folder and link here like:
 
-![Dashboard Screenshot](images/dashboard_preview.png)
+![Dashboard Screenshot](Charts/Dashboard.png)
 
 ## 🚀 Getting Started
 1. Clone or download the repository  
